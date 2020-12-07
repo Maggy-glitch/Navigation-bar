@@ -6,10 +6,10 @@ The design was created with the following widths:
 ° Mobile 700px
 ° Desktop 900px
 
-#Colors
+#Colors:
 °beige
 °#0082e6
 °white
 
-#Image
+#Image:
 The image used is given. 
